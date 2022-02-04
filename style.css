@@ -1,0 +1,12 @@
+.columns {
+display: flex;
+    flex-flow: row wrap;
+
+height: auto;
+width: 100px;
+
+}
+.column {
+width: 100px;
+height: auto;
+}
