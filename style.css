@@ -1,12 +1,32 @@
 .columns {
-display: flex;
     flex-flow: row wrap;
-
-height: auto;
-width: 100px;
-
-}
-.column {
-width: 100px;
-height: auto;
-}
+    column-count: auto;
+   }
+   .column {
+    width: 20%;
+    height: auto;
+   }
+   .card1 {
+    width: 50%;
+    height: auto;
+    margin: 20px auto;
+   }
+   #contact {
+    margin-top: 20px;
+   }
+   .contact-div {
+    text-align: center;
+   }
+   .about-me-img {
+    height: auto;
+    width: 50%;
+    margin-left: 10%
+   }
+   .name{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 5%;
+   }
+   li {
+    list-style-type: none;
+   }
