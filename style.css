@@ -5,11 +5,14 @@
    .column {
     width: 20%;
     height: auto;
+    
+    
    }
    .card1 {
     width: 50%;
     height: auto;
     margin: 20px auto;
+    
    }
    #contact {
     margin-top: 20px;
@@ -30,3 +33,12 @@
    li {
     list-style-type: none;
    }
+
+   body {background-color: rgb(80, 255, 188);}
+   
+   .about-me-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
